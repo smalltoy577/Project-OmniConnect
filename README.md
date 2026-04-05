@@ -20,4 +20,3 @@ Subnetting and IP address planning (e.g., 10.44.0.0/24 network).
 Configuration of Wireless LAN (WLAN).
 
 Server roles configuration (DNS and Database).
-![Network Diagram](<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/01e4a11f-8f05-46a9-8642-827ca484f1f8" />)
